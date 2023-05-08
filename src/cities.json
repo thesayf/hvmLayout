@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "name": "Moscow",
+      "country": "Russia",
+      "population": 12506468,
+      "image": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1541447271487-09612b3f49f7"
+    },
+    {
+      "id": 2,
+      "name": "Rome",
+      "country": "Italy",
+      "population": 2856133,
+      "image": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1598124146789-ff5e7b688a14"
+    },
+    {
+      "id": 3,
+      "name": "Los Angeles",
+      "country": "USA",
+      "population": 3977686,
+      "image": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1508767338923-f2d15fc531d3"
+    },
+    {
+      "id": 4,
+      "name": "Mumbai",
+      "country": "India",
+      "population": 12478447,
+      "image": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1622279487170-dbccd34eda0e"
+    },
+    {
+      "id": 5,
+      "name": "Istanbul",
+      "country": "Turkey",
+      "population": 15029231,
+      "image": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1466442929976-97f336a657be"
+    },
+    {
+        "id": 6,
+        "name": "Barcelona",
+        "country": "Spain",
+        "population": 1620343,
+        "image": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1464790719320-516ecd75af6c"
+      },
+      {
+        "id": 7,
+        "name": "Amsterdam",
+        "country": "Netherlands",
+        "population": 872757,
+        "image": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1519475889208-0968e5438f7d"
+      },
+      {
+        "id": 8,
+        "name": "Toronto",
+        "country": "Canada",
+        "population": 2731571,
+        "image": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1506751470038-e579eb91f580"
+      },
+      {
+        "id": 9,
+        "name": "Buenos Aires",
+        "country": "Argentina",
+        "population": 2890151,
+        "image": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1568730383245-9592ccaa85be"
+      },
+      {
+        "id": 10,
+        "name": "Berlin",
+        "country": "Germany",
+        "population": 3769495,
+        "image": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1552744095-2c6e21066535"
+      }
+    ]
